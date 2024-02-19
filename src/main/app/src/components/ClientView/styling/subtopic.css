@@ -1,0 +1,43 @@
+.SubtopicContainer {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SubtopicHeaderContainer {
+    width: 1000px;
+}
+
+.SubtopicSummary{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.SubtopicParagraph {
+    font-size: 20px;
+}
+
+.SubtopicContainer .image{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SubtopicContainer .image img {
+    width: 100%;
+}
+
+.Breadcrumbs {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.Breadcrumbs > * {
+    margin-left: 5px;
+}
+
+.Breadcrumbs a {
+    color: black;
+}

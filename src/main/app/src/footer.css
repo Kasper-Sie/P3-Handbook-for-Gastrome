@@ -1,0 +1,17 @@
+.Footer {
+    border-top: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top:50px;
+    max-width: 1400px; /* Maximum width */
+    width: 100%; /* Full width */
+    box-sizing: border-box; /* Include padding and border in the width */
+    margin-left: auto;
+    margin-right: auto;/* Center the footer if it's less than 100% width */
+}
+
+.contact {
+    flex-grow: 1;
+}
